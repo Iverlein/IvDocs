@@ -9,6 +9,6 @@ ___
 ___
 ## Подготовка
 Положи лист бумаги на подготовленную поверхность. В центре листа размести предмет, который нужно сфотографировать.<br>
-![Amber on white](Flipper\MobilePhotoManual\pıctures\P_20220325_183024.png "sdsdds")<br>
+![Amber on white](https://github.com/Iverlein/IvDocs/blob/main/Flipper/MobilePhotoManual/p%C4%B1ctures/P_20220325_183024.png "sdsdds")<br>
 
 
