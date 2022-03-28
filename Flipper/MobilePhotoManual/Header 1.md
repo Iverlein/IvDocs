@@ -15,8 +15,7 @@ ___
 ___
 ## Съемка
 Открой приложение **Камера** в смартфоне. Его иконка обычно похожа на эту:
-<br><br>
-![Camera Icon](https://github.com/Iverlein/IvDocs/blob/main/Flipper/MobilePhotoManual/p%C4%B1ctures/Screenshot_28-03-2022_(12h-54m-47s)s.png "Camera Icon")<br><br>
+![Camera Icon](https://github.com/Iverlein/IvDocs/blob/main/Flipper/MobilePhotoManual/p%C4%B1ctures/Screenshot_28-03-2022_(12h-54m-47s)supersmall.png "Camera Icon")<br><br>
 Наведи объектив так, чтобы предмет оказался в центре кадра. Наведи объектив так, чтобы предмет оказался в центре кадра.<br> При этом постарайся держать смартфон на таком расстоянии, чтобы края бумажного листа не были видны в кадре:<br><br>
 ![Shooting in progress](https://github.com/Iverlein/IvDocs/blob/main/Flipper/MobilePhotoManual/p%C4%B1ctures/2022-03-28_10.47.32.png "Shooting in progress")<br><br>
 Нажми на кнопку съемки, чтобы сделать первый снимок. Сделай несколько снимков, меняя расстояние и угол съемки.
