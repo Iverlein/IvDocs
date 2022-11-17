@@ -6,4 +6,10 @@
 <br><br>
 2. В документе есть таблица по резервному копированию, но нет данных для заполнения:
 <br><br>
-![Table_empty](https://github.com/Iverlein/IvDocs/blob/main/PPSVT/Pics/Screenshot_17-11-2022_(17h-09m-04s).png )
+![Table_empty_1](https://github.com/Iverlein/IvDocs/blob/main/PPSVT/Pics/Screenshot_17-11-2022_(17h-09m-04s).png )
+<br><br>
+# Межсетевое взаимодействие
+1. Есть комментарии о том, что было настроено взаимодействие c *4me* и *СПУ* и предложение отобразить это в таблице, но нет данных. Нужны данные по взаимодействиям в соответствии с таблицей:
+<br><br>
+![Table_empty_2](https://github.com/Iverlein/IvDocs/blob/main/PPSVT/Pics/Screenshot_17-11-2022_(17h-40m-11s).png)
+<br><br>
