@@ -18,21 +18,26 @@ ___
     - остановка задачи посредством выбора соответствующей кнопки в форме подробной информации о задаче
     - функция подтверждения или отмены остановки в дополнительном модальном окне
 <br>
+___
 
-![] (https://github.com/Iverlein/IvDocs/blob/71131efeda5bfedde4c1781affd45556eb7e2088/MES/Pictures/image_2023-02-02_14-30-57.png "Из списка задач")
-
-<br>
-
-![] (https://github.com/Iverlein/IvDocs/blob/71131efeda5bfedde4c1781affd45556eb7e2088/MES/Pictures/image_2023-02-02_14-31-11.png "диалоговое окно")
+![](https://github.com/Iverlein/IvDocs/blob/71131efeda5bfedde4c1781affd45556eb7e2088/MES/Pictures/image_2023-02-02_14-30-57.png "Из списка задач")
+___
 
 <br>
 
-![] (https://github.com/Iverlein/IvDocs/blob/71131efeda5bfedde4c1781affd45556eb7e2088/MES/Pictures/image_2023-02-02_14-31-26.png "результат отмены")
+![](https://github.com/Iverlein/IvDocs/blob/71131efeda5bfedde4c1781affd45556eb7e2088/MES/Pictures/image_2023-02-02_14-31-11.png "диалоговое окно")
 
+___
 <br>
 
-![] (https://github.com/Iverlein/IvDocs/blob/71131efeda5bfedde4c1781affd45556eb7e2088/MES/Pictures/image_2023-02-02_14-44-14.png "из карточки задачи")
+![](https://github.com/Iverlein/IvDocs/blob/71131efeda5bfedde4c1781affd45556eb7e2088/MES/Pictures/image_2023-02-02_14-31-26.png "результат отмены")
+___
+<br>
 
+___
+![](https://github.com/Iverlein/IvDocs/blob/71131efeda5bfedde4c1781affd45556eb7e2088/MES/Pictures/image_2023-02-02_14-44-14.png "из карточки задачи")
+
+___
 <br>
 
 - Должна быть доработана форма создания и редактирования задач в части возможности указания:
