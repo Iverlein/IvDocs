@@ -8,7 +8,7 @@ Sub DefineTableColumns()
     Set tbl = Selection.Tables(1)
     
     'Set the column widths (in centimeters)
-    columnWidths = Array(2.5, 5, 3, 4)
+    columnWidths = Array(1.5, 5.5, 4.5, 5)
     
     'Loop through each column and set the width
     For i = 1 To tbl.Rows(1).Cells.Count
