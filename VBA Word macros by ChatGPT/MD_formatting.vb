@@ -1,6 +1,6 @@
 Sub FormatDocument()
     Dim oList As List
-    oInlineShape As InlineShape
+    Dim oInlineShape As InlineShape
     
     ' Format numbered list
     For Each oList In ActiveDocument.Lists
