@@ -15,4 +15,16 @@
 
 - Выбрать ключевой файл и нажать **Select**:
   
-![Keyfile selection]()
+![Keyfile selection](https://github.com/Iverlein/IvDocs/blob/main/Unsorted/Pictures/Screenshot_20230312-213024797.png)
+
+- В открывшемся окне нажать **Ok**:
+
+![Adding keyfile dialog](https://github.com/Iverlein/IvDocs/blob/main/Unsorted/Pictures/Screenshot_20230312-213030322.png)
+
+- Завершить добавление соединения, нажав **Add**:
+  
+![Add connection](https://github.com/Iverlein/IvDocs/blob/main/Unsorted/Pictures/Screenshot_20230312-213040201.png)
+
+- Теперь можно включить добавленное соединение 🎉
+  
+![Cpnnection added](https://github.com/Iverlein/IvDocs/blob/main/Unsorted/Pictures/Screenshot_20230312-213047097.png)
