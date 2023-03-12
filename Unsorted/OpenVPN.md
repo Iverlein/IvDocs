@@ -27,4 +27,4 @@
 
 - Теперь можно включить добавленное соединение 🎉
   
-![Cpnnection added](https://github.com/Iverlein/IvDocs/blob/main/Unsorted/Pictures/Screenshot_20230312-213047097.png)
+![Connection added](https://github.com/Iverlein/IvDocs/blob/main/Unsorted/Pictures/Screenshot_20230312-213047097.png)
