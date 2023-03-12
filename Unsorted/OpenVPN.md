@@ -11,7 +11,7 @@
   
 - Нажать на кнопку **Browse**, чтобы перейти к выбору скачанного ключевого файла:
 
-![][def4]
+![Browse keyfile][def4]
 
 [def1]: (https://github.com/Iverlein/IvDocs/blob/d865b57aed50f6bbea91f2afdc5bb1fcbf375599/Unsorted/Pictures/Screenshot_20230312-212902549_cr.png)
 [def2]: (https://github.com/Iverlein/IvDocs/blob/d865b57aed50f6bbea91f2afdc5bb1fcbf375599/Unsorted/Pictures/Screenshot_20230312-212902549.png)
