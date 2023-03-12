@@ -12,3 +12,7 @@
 - Нажать на кнопку **Browse**, чтобы перейти к выбору скачанного ключевого файла:
 
 ![Browse keyfile](https://github.com/Iverlein/IvDocs/blob/main/Unsorted/Pictures/Screenshot_20230312-212918603.png)
+
+- Выбрать ключевой файл и нажать **Select**:
+  
+![Keyfile selection]()
