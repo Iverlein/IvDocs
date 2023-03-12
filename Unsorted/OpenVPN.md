@@ -1,17 +1,17 @@
 # Android
 
 - Скачать приложение [OpenVPN Connect](https://play.google.com/store/apps/details?id=net.openvpn.openvpn&hl=en)
-- Открыть приложение и нажать кнопку ![Add profile][def1].
+- Открыть приложение и нажать кнопку ![Add profile](def1).
   
-![Main Window][def2]
+![Main Window](def2)
 
 - В результате откроется окно выбора ключевого файла. Необходимо преключиться на вкладку выбора из файла:
   
-![Default keyfile select][def3]
+![Default keyfile select](def3)
   
 - Нажать на кнопку **Browse**, чтобы перейти к выбору скачанного ключевого файла:
 
-![Browse keyfile][def4]
+![Browse keyfile](def4)
 
 [def1]: (https://github.com/Iverlein/IvDocs/blob/d865b57aed50f6bbea91f2afdc5bb1fcbf375599/Unsorted/Pictures/Screenshot_20230312-212902549_cr.png)
 [def2]: (https://github.com/Iverlein/IvDocs/blob/d865b57aed50f6bbea91f2afdc5bb1fcbf375599/Unsorted/Pictures/Screenshot_20230312-212902549.png)
