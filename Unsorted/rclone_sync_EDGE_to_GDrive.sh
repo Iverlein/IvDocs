@@ -1,3 +1,3 @@
 #!/bin/bash
-rclone sync /home/Documents/GNUCash Iverlein_Google_Drive:Documents/GNUCash
-rclone sync /home/Documents/KeePassDB Iverlein_Google_Drive:Documents/KeePassDB
+rclone sync --progress /home/iverlein/Documents/GNUCash Iverlein_Google_Drive:Documents/GNUCash
+rclone sync --progress /home/iverlein/Documents/KeePassDB Iverlein_Google_Drive:Documents/KeePassDB
