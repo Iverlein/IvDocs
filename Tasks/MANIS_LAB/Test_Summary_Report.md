@@ -53,7 +53,7 @@ ___
 
 - **Операционная система**: Microsoft Windows 11 Pro OS Version 10.0.22621.1555 (Win11 2022 Update)
 - **Браузер**: Microsoft Edge Version 112.0.1722.58 (Official build) (64-bit)
-- **URL приложения**: [https://forms-tasks.herokuapp.com/clothes-delivery][app_address]
+- **URL приложения**: <https://forms-tasks.herokuapp.com/clothes-delivery>
 
 ## Тест-кейсы
 
@@ -71,5 +71,4 @@ ___
 
 ## Overall summary
 
-[app_address]: https://forms-tasks.herokuapp.com/clothes-delivery
 [excel_file]: https://1drv.ms/x/s!AtzvQIJE_o7B-gozhOyYffZiloYH?e=FGCkGFhttps://1drv.ms/x/s!AtzvQIJE_o7B-gozhOyYffZiloYH?e=jgsgpf
