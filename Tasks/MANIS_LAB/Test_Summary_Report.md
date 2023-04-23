@@ -1,40 +1,75 @@
-# Test Objective
-Целью тестирования является проверка функционирования web приложения при отсутствии заданных требований.
+# Отчет о тестировании № 1  (23.04.2023)
 
-# Application overview
+## Цель документа
 
+Настоящий документ описывает результаты функционального и usability тестирования web-приложения "Сервис доставки одежды".
 
-# Testing scope
+## Обзор приложения
 
+Приложение "Сервис доставки одежды" представляет собой web-приложение, предназначенное для заказа доставки одежды по введенному адресу. Приложение состоит из формы ввода данных, разделенной на две отдельных страницы.
+___
 
-## In scope
+Первая страница содержит поля ввода личных данных:
 
+- Имя
+- Телефон
+- Адрес
+- Email
+- Телефон
 
-## Out of scope
+Управляющие элементы:
 
+- Кнопка "Сохранить"
+- Кнопки переключения страниц "1" и "2"
 
-# Test Approach
+___
 
+Вторая страница содержит формы ввода параметров доставки:
 
-# Test enviroment details
+- Дата доставки
+- Время доставки
+- Способ доставки
 
+Управляющие элементы:
 
-# Testing matrix
+- Кнопка "Отправить"
+- Кнопки переключения страниц "1" и "2"
 
+## Объем тестирования
 
-## Tests planned vs tests executed
+Тестирование приложения было проведено в автономном режиме без подключения к базе данных и серверу приложений.
 
+### В пределах объема
 
-## Test pass/fail
+- Функциональное тестирование [полей и управляющих элементов](#обзор-приложения)
+- Оценка пользовательского опыта
 
+### За пределами объема
 
-# Defect summary
+- Нагрузочное тестирование
+- Тестирование соединения
 
+## Описание тестовой среды
 
-## Table of defects
+- **Операционная система**: Microsoft Windows 11 Pro OS Version 10.0.22621.1555 (Win11 2022 Update)
+- **Браузер**: Microsoft Edge Version 112.0.1722.58 (Official build) (64-bit)
+- **URL приложения**: [https://forms-tasks.herokuapp.com/clothes-delivery][app_address]
 
+## Тест-кейсы
 
-## Outstanding defects
+Таблица тест-кейсов выполнена в [отдельном файле][excel_file]
 
+### Tests planned vs tests executed
 
-# Overall summary
+### Test pass/fail
+
+## Defect summary
+
+### Table of defects
+
+### Outstanding defects
+
+## Overall summary
+
+[app_address]: https://forms-tasks.herokuapp.com/clothes-delivery
+[excel_file]: https://1drv.ms/x/s!AtzvQIJE_o7B-gozhOyYffZiloYH?e=FGCkGFhttps://1drv.ms/x/s!AtzvQIJE_o7B-gozhOyYffZiloYH?e=jgsgpf
