@@ -41,6 +41,5 @@
 - ты хочешь чтобы твое проджект и бух обязательно использовали 2фа, так как у них доступ ко всему или к важным данных, а сммщики могут сами решать использовать 2фа или нет
 - ты не хочешь, чтобы сммщики могли что-то хранить в личных сейфах
 
-
 [Terminate_sessions]: https://raw.githubusercontent.com/Iverlein/IvDocs/main/Tasks/Passwork%20Demo%20Task%20SMM/Pictures/Screenshot_25-04-2023_(18h-05m-10s).png "Выход из сессий"
 [Actions_log]: https://raw.githubusercontent.com/Iverlein/IvDocs/main/Tasks/Passwork%20Demo%20Task%20SMM/Pictures/Screenshot_25-04-2023_(18h-15m-54s).png "История действий"
