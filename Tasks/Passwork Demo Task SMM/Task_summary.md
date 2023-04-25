@@ -26,8 +26,7 @@
 
 - надо проанализировать все действия какого-то сотрудника:
 
-![][Actions_log]
-
+![История действий][Actions_log]
 *Далее применить фильтр по имени пользователя*
 
 - ты хочешь понять какие пароли используются, какие из них слабые или старые
@@ -44,4 +43,4 @@
 
 
 [Terminate_sessions]: https://raw.githubusercontent.com/Iverlein/IvDocs/main/Tasks/Passwork%20Demo%20Task%20SMM/Pictures/Screenshot_25-04-2023_(18h-05m-10s).png "Выход из сессий"
-[Actions_log]: https://raw.githubusercontent.com/Iverlein/IvDocs/main/Tasks/Passwork%20Demo%20Task%20SMM/Pictures/Screenshot_25-04-2023_(18h-15m-54s).png
+[Actions_log]: https://raw.githubusercontent.com/Iverlein/IvDocs/main/Tasks/Passwork%20Demo%20Task%20SMM/Pictures/Screenshot_25-04-2023_(18h-15m-54s).png "История действий"
