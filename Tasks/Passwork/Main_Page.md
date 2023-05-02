@@ -1,12 +1,19 @@
-## Главная страница
+# Главная страница
 
-[Пассворк](https://passwork.ru/) - это приложение для безопасной и удобной работы с корпоративными паролями.
+[Пассворк][Passwork_Website] - это приложение для безопасной и удобной работы с корпоративными паролями.
 
 Главная страница Пассворка содержит:
 
-- [Панель управления](Tasks\Passwork\Control_Panel.md)
-- [Область просмотра](Tasks\Passwork\View_Panel.md)
-- [Меню настроек](Tasks\Passwork\Settings_Menu.md)
-- [Меню аккаунта](Tasks\Passwork\Account_menu.md)
+- [Панель управления][Control_Panel]
+- [Область просмотра][View_Panel]
+- [Меню настроек][Settings_Menu]
+- [Меню аккаунта][Account_menu]
 
-![Главная страница](Tasks\Passwork\Pictures\Main_Page.png "Главная страница Пассворка")
+![Главная страница][Main_Page]
+
+[Main_Page]: https://raw.githubusercontent.com/Iverlein/IvDocs/main/Tasks/Passwork/Pictures/Main_Page.png
+[Account_menu]: Tasks\Passwork\Account_menu.md
+[Settings_Menu]: Tasks\Passwork\Settings_Menu.md
+[View_Panel]: Tasks\Passwork\View_Panel.md
+[Control_Panel]: Tasks\Passwork\Control_Panel.md
+[Passwork_Website]: https://passwork.ru/
