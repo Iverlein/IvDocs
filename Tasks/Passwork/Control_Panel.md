@@ -22,4 +22,4 @@ ___
 [Starred_Passwords]: Tasks\Passwork\Starred_Passwords.md
 [Corporate_safe_list]: Tasks\Passwork\Corporate_safe_list.md
 [Personal_safe_list]: Tasks\Passwork\Personal_safe_list.md
-[Control_Panel_PNG]:https://raw.githubusercontent.com/Iverlein/IvDocs/main/Tasks/Passwork/Pictures/Control_Panel.png
+[Control_Panel_PNG]:Tasks\Passwork\Pictures\Control_Panel.png

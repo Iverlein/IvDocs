@@ -13,9 +13,9 @@
 
 ___
 
-[Main_Page_PNG]: https://raw.githubusercontent.com/Iverlein/IvDocs/main/Tasks/Passwork/Pictures/Main_Page.png
+[Main_Page_PNG]: Tasks\Passwork\Pictures\Main_Page.png
 [Account_Menu]: Tasks\Passwork\Account_Menu.md
 [Settings_Menu]: Tasks\Passwork\Settings_Menu.md
 [View_Panel]: Tasks\Passwork\View_Panel.md
-[Control_Panel]: https://github.com/Iverlein/IvDocs/blob/main/Tasks/Passwork/Control_Panel.md
+[Control_Panel]: Tasks\Passwork\Control_Panel.md
 [Passwork_Website]: https://passwork.ru/
