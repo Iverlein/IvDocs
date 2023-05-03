@@ -10,10 +10,9 @@
 - [Меню аккаунта][Account_Menu]
 
 ![Главная страница][Main_Page_PNG]
-
 ___
 
-[Main_Page_PNG]: Pictures\Main_Page.png
+[Main_Page_PNG]: Main_Page.png
 [Account_Menu]: Account_Menu.md
 [Settings_Menu]: Settings_Menu.md
 [View_Panel]: View_Panel.md

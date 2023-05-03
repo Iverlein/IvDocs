@@ -12,6 +12,7 @@
 - [Личные сейфы][Personal_safe_list]
 
 ![Панель управления][Control_Panel_PNG]
+
 > ℹ️
 > При открытии меню в панели управления будут отображены все его пункты
 
@@ -23,4 +24,4 @@ ___
 [Starred_Passwords]: Starred_Passwords.md
 [Corporate_safe_list]: Corporate_safe_list.md
 [Personal_safe_list]: Personal_safe_list.md
-[Control_Panel_PNG]:Pictures\Control_Panel.png
+[Control_Panel_PNG]: Control_Panel.png "Панель управления на главной странице"
