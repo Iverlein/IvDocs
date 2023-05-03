@@ -14,6 +14,8 @@
 ![Панель управления][Control_Panel_PNG]
 > ℹ️ При открытии меню в панели управления будут отображены все его пункты
 
+___
+
 [Search_Tool]: Tasks\Passwork\Search_Tool.md
 [Recent_Passwords]: Tasks\Passwork\Recent_Passwords.md
 [Inbox]: Tasks\Passwork\Inbox.md
