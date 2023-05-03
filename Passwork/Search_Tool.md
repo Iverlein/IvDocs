@@ -8,5 +8,5 @@
 
 ___
 
-[System_Settings]: Tasks\Passwork\System_Settings.md
-[Search_Tool]: Tasks\Passwork\Pictures\Search_Tool.png "Чтобы быстро найти нужный пароль, воспользуйтесь поисковой строкой или выберите необходимые цвета и теги. Пассворк покажет все найденные пароли."
+[System_Settings]: System_Settings.md
+[Search_Tool]: Pictures\Search_Tool.png "Чтобы быстро найти нужный пароль, воспользуйтесь поисковой строкой или выберите необходимые цвета и теги. Пассворк покажет все найденные пароли."

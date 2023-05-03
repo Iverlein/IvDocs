@@ -13,9 +13,9 @@
 
 ___
 
-[Main_Page_PNG]: Tasks\Passwork\Pictures\Main_Page.png
-[Account_Menu]: Tasks\Passwork\Account_Menu.md
-[Settings_Menu]: Tasks\Passwork\Settings_Menu.md
-[View_Panel]: Tasks\Passwork\View_Panel.md
-[Control_Panel]: Tasks\Passwork\Control_Panel.md
+[Main_Page_PNG]: Pictures\Main_Page.png
+[Account_Menu]: Account_Menu.md
+[Settings_Menu]: Settings_Menu.md
+[View_Panel]: View_Panel.md
+[Control_Panel]: Control_Panel.md
 [Passwork_Website]: https://passwork.ru/

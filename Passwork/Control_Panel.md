@@ -17,10 +17,10 @@
 
 ___
 
-[Search_Tool]: Tasks\Passwork\Search_Tool.md
-[Recent_Passwords]: Tasks\Passwork\Recent_Passwords.md
-[Inbox]: Tasks\Passwork\Inbox.md
-[Starred_Passwords]: Tasks\Passwork\Starred_Passwords.md
-[Corporate_safe_list]: Tasks\Passwork\Corporate_safe_list.md
-[Personal_safe_list]: Tasks\Passwork\Personal_safe_list.md
-[Control_Panel_PNG]:Tasks\Passwork\Pictures\Control_Panel.png
+[Search_Tool]: Search_Tool.md
+[Recent_Passwords]: Recent_Passwords.md
+[Inbox]: Inbox.md
+[Starred_Passwords]: Starred_Passwords.md
+[Corporate_safe_list]: Corporate_safe_list.md
+[Personal_safe_list]: Personal_safe_list.md
+[Control_Panel_PNG]:Pictures\Control_Panel.png
